@@ -4,3 +4,4 @@ making more commits
 hello world
 Now I am working in new_branch.
 merging of branches.
+creating conflicts.
