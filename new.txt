@@ -2,3 +2,5 @@ Hi this is my Lab 2.
 working with git.
 making more commits
 hello world
+Now I am working in new_branch.
+merging of branches.
