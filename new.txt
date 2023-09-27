@@ -6,3 +6,4 @@ Now I am working in new_branch.
 merging of branches.
 working with different branchs in git.
 hi divya
+hello i am divya
